@@ -23,5 +23,19 @@ A machine learning project that classifies iris flower species using a Random Fo
 ## 🔍 Key Concepts
 - Supervised Learning
 - Classification
+
+## 📸 Output Screenshots
+
+### Dataset Overview
+![Dataset Overview](assets/dataset_overview.png)
+
+### Train Test Split
+![Train Test Split](assets/train_test_split.png)
+
+### Model Accuracy
+![Model Accuracy](assets/model_accuracy.png)
+
+### Prediction Output
+![Prediction Output](assets/prediction_output.png)
 - Train-Test Split
 - Model Evaluation (Precision, Recall, F1-Score)
